@@ -18,3 +18,6 @@ scritpt for makeing a test an publish the result online on github repo
 ```bash
 ./start.sh
 ```
+
+
++ [result](result.md)
