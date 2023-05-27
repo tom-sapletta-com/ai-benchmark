@@ -7,7 +7,10 @@
 
 scritpt for makeing a test an publish the result online on github repo
 
-
+```bash
+git clone https://github.com/tom-sapletta-com/ai-benchmark.git
+cd ai-benchmark
+```
 
 ```bash
 ./install.sh
